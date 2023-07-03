@@ -1,2 +1,2 @@
-# Lux-eterna-prueba
-Partitura XML del lux eterna de Ligeti
+ #Parturas XML para análisis digital
+
